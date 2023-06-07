@@ -1,7 +1,7 @@
 
 # Desarrollo e investigación sobre la carrera de Derecho 
 
-# Bienvenido a mi página web
+
 
 Soy un apasionado del derecho, un campo que evoluciona constantemente a través de múltiples influencias. En particular, me centro en la comprensión de cómo la doctrina y la jurisprudencia, ambas fuentes vitales del derecho, juegan papeles distintos pero igualmente cruciales en el ámbito jurídico.
 
