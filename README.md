@@ -1,7 +1,8 @@
 
 # Desarrollo e investigación sobre la carrera de Derecho 
 
-![image](https://github.com/JoseMBanzer42/CarreraDeDerecho/assets/7370358/03b3dc97-2a00-465e-a5fc-8d2b29c2860e)
+![image](https://github.com/JoseMBanzer42/CarreraDeDerecho/assets/7370358/c0cfdd9c-865e-43d4-bcfb-1aa1565fc93f)
+
 
 
 Soy un apasionado del derecho, un campo que evoluciona constantemente a través de múltiples influencias. En particular, me centro en la comprensión de cómo la doctrina y la jurisprudencia, ambas fuentes vitales del derecho, juegan papeles distintos pero igualmente cruciales en el ámbito jurídico.
