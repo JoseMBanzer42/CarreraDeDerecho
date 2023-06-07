@@ -45,7 +45,7 @@ En resumen, la Legal
 
 ## Legaltech: Transformando la Práctica Legal
 
-![Legaltech](https://example.com/legaltech-image.jpg)
+![Legaltech](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_qCDykIJaFodkLnWj38LM63tJ0jfw1JN-WQ&usqp=CAU)
 
 ### Introducción
 
@@ -61,28 +61,25 @@ La adopción de Legaltech ofrece numerosos beneficios tanto para los abogados co
 
 #### 1. Automatización de tareas
 
-![Automatización de tareas](https://example.com/automation-image.jpg)
+![Automatización de tareas](https://i0.wp.com/aldia.microjuris.com/wp-content/uploads/2021/03/shutterstock_1142347682-1.jpg?fit=1000%2C667&ssl=1)
 
 La Legaltech automatiza tareas repetitivas y tediosas, como la revisión de contratos, la gestión de documentos y la programación de citas. Esto permite a los profesionales del derecho ahorrar tiempo valioso y centrarse en tareas de mayor valor agregado, como la estrategia legal y el asesoramiento a los clientes.
 
 #### 2. Acceso a información y análisis de datos
 
-![Acceso a información y análisis de datos](https://example.com/data-analysis-image.jpg)
+![Acceso a información y análisis de datos](https://palabrasdelderecho.com.ar/upload/d67da223-34c7-4c70-bc3e-0238d9aed9c5.jpg)
 
 Las herramientas de Legaltech facilitan el acceso rápido y eficiente a vastas cantidades de información legal, incluyendo leyes, regulaciones y casos anteriores. Además, mediante el análisis de datos, los abogados pueden obtener información valiosa sobre patrones, tendencias y predicciones, lo que les permite tomar decisiones más informadas y estratégicas.
 
 #### 3. Mejora de la colaboración y comunicación
 
-![Mejora de la colaboración y comunicación](https://example.com/collaboration-image.jpg)
+![Mejora de la colaboración y comunicación](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_qCDykIJaFodkLnWj38LM63tJ0jfw1JN-WQ&usqp=CAU))
 
 Las plataformas de Legaltech fomentan la colaboración y la comunicación efectiva entre abogados y clientes. Estas herramientas permiten compartir documentos de manera segura, mantener un registro de las conversaciones y facilitar la comunicación en tiempo real, incluso a distancia. Esto optimiza la eficiencia del trabajo en equipo y fortalece las relaciones con los clientes.
 
 #### 4. Reducción de costos
 
-![Reducción de costos](https://example.com/cost-reduction-image.jpg)
-
 La adopción de Legaltech puede ayudar a reducir los costos operativos en un bufete de abogados. La automatización de tareas y la eficiencia en la gestión de casos permiten utilizar los recursos de manera más eficiente, disminuyendo los gastos generales y brindando un mayor valor a los clientes.
-
 
 Se extiende a lo largo del mundo y solamente en los países limitrofes podemos encontrar muchos ejemplos como:
 CaseTracking, software desarrollado por Lemontech (Chile) que se especializa en el seguimiento automático de procesos judiciales, seguido por LegalTracking, un software mexicano que ayuda a los abogados a controlar, evaluar y optimizar sus juicios y su operación jurídica. Luego, tenemos LexDoctor (Argentina), herramienta diseñada para la gestión de expedientes y el desarrollo de la actividad diaria jurídica, junto a RelCase (Chile) y LegisOffice (Colombia).
