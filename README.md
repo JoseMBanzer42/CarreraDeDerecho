@@ -31,6 +31,8 @@ Este documento presenta los hallazgos de una investigación exhaustiva sobre la 
 
 En esta sección, se explicará en qué consiste la carrera de Derecho y su importancia en la sociedad. Se abordarán temas como la administración de justicia, el estudio de las leyes y los derechos humanos.
 
+![inal](https://www.unir.net/wp-content/uploads/2020/07/iStock-1146082002-1-1.jpg)
+
 ## Áreas de Especialización
 
 Aquí se detallarán las diferentes áreas de especialización dentro de la carrera de Derecho, como el derecho civil, penal, constitucional, laboral, internacional, entre otros. Se describirán brevemente cada una de estas áreas y sus aplicaciones prácticas.
@@ -69,17 +71,20 @@ El derecho se divide en diferentes ramas o áreas de estudio, que se enfocan en 
 Establece las normas que definen los delitos y las sanciones correspondientes, así como los procedimientos legales para juzgar y castigar a los infractores.
 ## Derecho Civil: 
 ![civ](https://www.ulima.edu.pe/sites/default/files/styles/600x300/public/news/img/htmlcabeceraderechocivilcovid19_0.png?itok=Icpi04gX)
+
 Regula las relaciones entre las personas en el ámbito privado, como el matrimonio, la propiedad, los contratos y las obligaciones.
 
 ## Derecho Laboral: 
 ![lab](https://www.gaceta.unam.mx/wp-content/uploads/2021/10/211021-Com1-des-f2-Especialistas-de-once-paises-en-congreso-virtual-de-derecho-penal.jpg)
+
 Regula las relaciones entre empleadores y empleados, estableciendo los derechos y obligaciones de ambas partes, así como las normas de seguridad y protección social.
 ## Derecho Mercantil:
 ![mer](https://conceptodefinicion.de/wp-content/uploads/2011/09/Derecho-1-1.jpg)
+
 Se ocupa de las normas que regulan el comercio y las transacciones comerciales, incluyendo contratos, sociedades, propiedad intelectual y competencia desleal.
 
 ## Derecho Internacional: 
-![inal](https://www.unir.net/wp-content/uploads/2020/07/iStock-1146082002-1-1.jpg)
+
 Establece las normas que rigen las relaciones entre los diferentes países, incluyendo tratados, convenios y solución de conflictos internacionales.
 Para entender las distintas interpretaciones y usos de la ley debemos entender sobre:
 
@@ -111,17 +116,6 @@ Por otro lado el derecho tiene distintas orientaciones como Legaltech.
 LegalTech
 
 El término "LegalTech" se refiere a la aplicación de la tecnología en el ámbito legal para mejorar y agilizar los servicios legales. A medida que la tecnología ha avanzado, también lo ha hecho su influencia en el sector legal, lo que ha llevado a la aparición de nuevas herramientas y soluciones que están transformando la forma en que se llevan a cabo las tareas legales y se brindan los servicios jurídicos.
-
-
-
-
-
-
-
-
-
-
-
 
 
 
