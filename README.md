@@ -7,6 +7,56 @@
 
 Soy un apasionado del derecho, un campo que evoluciona constantemente a través de múltiples influencias. En particular, me centro en la comprensión de la ley que es interpretativa en sus formas cómo la doctrina y la jurisprudencia, ambas fuentes vitales del derecho, juegan papeles distintos pero igualmente cruciales en el ámbito jurídico.
 
+
+# Investigación de la Carrera de Derecho
+
+## Introducción
+
+Este documento presenta los hallazgos de una investigación exhaustiva sobre la carrera de Derecho. El objetivo de esta investigación es proporcionar una visión general de la carrera, sus áreas de especialización, las habilidades requeridas y las oportunidades de carrera disponibles para los graduados en Derecho.
+
+
+## Contenido
+
+1. Definición de la Carrera de Derecho
+2. Áreas de Especialización
+3. Habilidades Requeridas
+4. Currículo de la Carrera
+5. Perspectivas de Carrera
+6. Conclusiones
+
+## Definición de la Carrera de Derecho
+
+En esta sección, se explicará en qué consiste la carrera de Derecho y su importancia en la sociedad. Se abordarán temas como la administración de justicia, el estudio de las leyes y los derechos humanos.
+
+## Áreas de Especialización
+
+Aquí se detallarán las diferentes áreas de especialización dentro de la carrera de Derecho, como el derecho civil, penal, constitucional, laboral, internacional, entre otros. Se describirán brevemente cada una de estas áreas y sus aplicaciones prácticas.
+
+## Habilidades Requeridas
+
+En esta sección, se destacarán las habilidades necesarias para tener éxito en la carrera de Derecho. Se mencionarán habilidades como el razonamiento jurídico, la capacidad de investigación, la argumentación persuasiva y la ética profesional.
+
+## Currículo de la Carrera
+
+Aquí se presentará una visión general del currículo típico de la carrera de Derecho. Se mencionarán las asignaturas comunes que se estudian durante la carrera, como derecho civil, penal, procesal, constitucional, y otras materias fundamentales.
+
+## Perspectivas de Carrera
+
+En esta sección, se explorarán las oportunidades profesionales disponibles para los graduados en Derecho. Se hablará sobre la posibilidad de trabajar en el sector público, en el ámbito privado, en organizaciones no gubernamentales y en el ejercicio independiente de la abogacía.
+
+## Conclusiones
+
+En la última sección, se resumirán los principales hallazgos de la investigación y se proporcionará una conclusión general sobre la carrera de Derecho. Se destacarán las oportunidades y desafíos que enfrentan los graduados en esta disciplina.
+
+## Recursos Adicionales
+
+En caso de requerir más información sobre la carrera de Derecho, se proporcionarán enlaces a recursos adicionales, como libros, artículos, y sitios web relevantes.
+
+¡Gracias por leer nuestra investigación sobre la carrera de Derecho!
+
+Para entender las distintas interpretaciones y usos de la ley debemos entender sobre:
+
+
 La **doctrina** ejerce un papel fundamental en la elaboración, desarrollo progresivo y reforma del derecho. A través de sus enseñanzas y obras, la doctrina guía a los juristas en el ejercicio del derecho, brindando una función educativa y orientadora.
 
 Por otro lado, la **jurisprudencia** se refiere al conjunto de decisiones y sentencias emitidas por los tribunales que comparten un mismo criterio sobre la interpretación y aplicación de un ordenamiento jurídico determinado. Su función es orientar e influir en la decisión de casos futuros, sus decisiones forman un cuerpo de soluciones que adquieren un carácter obligatorio y vinculante, proporcionando una función interpretativa y vinculante.
@@ -14,6 +64,7 @@ Por otro lado, la **jurisprudencia** se refiere al conjunto de decisiones y sent
 En resumen, tanto la doctrina como la jurisprudencia son fuentes esenciales del derecho que permiten la interpretación y aplicación de las leyes y normas jurídicas existentes.
 
 Por otro lado el derecho tiene distintas orientaciones como Legaltech.
+
 ![Descripción de la imagen](https://mentorday.es/wikitips/wp-content/uploads/2021/11/Legaltech.jpg)
 
 
@@ -38,7 +89,7 @@ El término "LegalTech" se refiere a la aplicación de la tecnología en el ámb
 
 ![Legaltech](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_qCDykIJaFodkLnWj38LM63tJ0jfw1JN-WQ&usqp=CAU)
 
-### Introducción
+### Inducción al nuevo mundo
 
 ¡Bienvenidos al emocionante mundo de Legaltech! En este documento, exploraremos cómo la tecnología está revolucionando la práctica legal y transformando la forma en que los profesionales del derecho trabajan, gestionan casos y brindan servicios legales a sus clientes. Desde inteligencia artificial hasta automatización de procesos, Legaltech está cambiando las reglas del juego y abriendo nuevas oportunidades en el campo legal.
 
