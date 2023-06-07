@@ -84,6 +84,11 @@ Las plataformas de Legaltech fomentan la colaboración y la comunicación efecti
 La adopción de Legaltech puede ayudar a reducir los costos operativos en un bufete de abogados. La automatización de tareas y la eficiencia en la gestión de casos permiten utilizar los recursos de manera más eficiente, disminuyendo los gastos generales y brindando un mayor valor a los clientes.
 
 
+Se extiende a lo largo del mundo y solamente en los países limitrofes podemos encontrar muchos ejemplos como:
+CaseTracking, software desarrollado por Lemontech (Chile) que se especializa en el seguimiento automático de procesos judiciales, seguido por LegalTracking, un software mexicano que ayuda a los abogados a controlar, evaluar y optimizar sus juicios y su operación jurídica. Luego, tenemos LexDoctor (Argentina), herramienta diseñada para la gestión de expedientes y el desarrollo de la actividad diaria jurídica, junto a RelCase (Chile) y LegisOffice (Colombia).
 
+
+
+![Map](https://blog.lemontech.com/wp-content/uploads/2020/12/Mapa_LegalTech_Latam_4_Mesa-de-trabajo-1-copia-2-2-e1614979286647.png)
 
 
