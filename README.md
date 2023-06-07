@@ -14,7 +14,8 @@ Por otro lado, la **jurisprudencia** se refiere al conjunto de decisiones y sent
 En resumen, tanto la doctrina como la jurisprudencia son fuentes esenciales del derecho que permiten la interpretación y aplicación de las leyes y normas jurídicas existentes.
 
 Por otro lado el derecho tiene distintas orientaciones como Legaltech.
-https://mentorday.es/wikitips/wp-content/uploads/2021/11/Legaltech.jpg
+[Descripción de la imagen] (https://mentorday.es/wikitips/wp-content/uploads/2021/11/Legaltech.jpg)
+
 
 LegalTech
 
