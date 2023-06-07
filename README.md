@@ -4,15 +4,18 @@
 ![image](https://github.com/JoseMBanzer42/CarreraDeDerecho/assets/7370358/c0cfdd9c-865e-43d4-bcfb-1aa1565fc93f)
 
 
+¡Hola a todos!
 
-Soy un apasionado del derecho, un campo que evoluciona constantemente a través de múltiples influencias. En particular, me centro en la comprensión de la ley que es interpretativa en sus formas cómo la doctrina y la jurisprudencia, ambas fuentes vitales del derecho, juegan papeles distintos pero igualmente cruciales en el ámbito jurídico.
+Mi nombre es Jose Maria Banzer Justiniano, y soy un apasionado estudiante de Derecho. Estoy emocionado de documentar y compartir un poco sobre mí y mis intereses en esta disciplina fascinante.
+
+El derecho, un campo que evoluciona constantemente a través de múltiples influencias. En particular, me centro en la comprensión de la ley que es interpretativa en sus formas cómo la doctrina y la jurisprudencia, ambas fuentes vitales del derecho, juegan papeles distintos pero igualmente cruciales en el ámbito jurídico.
 
 
 # Investigación de la Carrera de Derecho
 
 ## Introducción
 
-Este documento presenta los hallazgos de una investigación exhaustiva sobre la carrera de Derecho. El objetivo de esta investigación es proporcionar una visión general de la carrera, sus áreas de especialización, las habilidades requeridas y las oportunidades de carrera disponibles para los graduados en Derecho.
+Este documento presenta los hallazgos de una investigación exhaustiva sobre la carrera de Derecho. El objetivo de esta investigación es proporcionar una visión general de la carrera a lo largo de los años, sus áreas de especialización, las habilidades requeridas y las oportunidades de carrera disponibles para los graduados en Derecho.
 
 
 ## Contenido
