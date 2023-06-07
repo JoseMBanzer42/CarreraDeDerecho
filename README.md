@@ -13,7 +13,7 @@ El derecho, un campo que evoluciona constantemente a través de múltiples influ
 
 # Investigación de la Carrera de Derecho
 
-## Introducción
+# Introducción
 
 Este documento presenta los hallazgos de una investigación exhaustiva sobre la carrera de Derecho. El objetivo de esta investigación es proporcionar una visión general de la carrera a lo largo de los años, sus áreas de especialización, las habilidades requeridas y las oportunidades de carrera disponibles para los graduados en Derecho.
 
@@ -56,9 +56,42 @@ En la última sección, se resumirán los principales hallazgos de la investigac
 En caso de requerir más información sobre la carrera de Derecho, se proporcionarán enlaces a recursos adicionales, como libros, artículos, y sitios web relevantes.
 
 ¡Gracias por leer nuestra investigación sobre la carrera de Derecho!
+## Introducción 
 
+La carrera de Derecho es una disciplina académica que se enfoca en el estudio y aplicación de las leyes y normas legales que rigen a una sociedad.
+El derecho es un sistema de normas y reglas que rige el comportamiento humano dentro de una sociedad. Se trata de un conjunto de principios y regulaciones que establecen los derechos y deberes de las personas, así como las consecuencias legales en caso de su incumplimiento. El Derecho es fundamental para garantizar el orden, la justicia y la convivencia pacífica en una comunidad. El derecho ha evolucionado a lo largo de la historia, adaptándose a los cambios sociales, políticos y culturales.
+El derecho se divide en diferentes ramas o áreas de estudio, que se enfocan en aspectos específicos de la vida jurídica. Algunas de las ramas principales del derecho son:
+## Derecho Penal:
+[penal] ()
+Establece las normas que definen los delitos y las sanciones correspondientes, así como los procedimientos legales para juzgar y castigar a los infractores.
+## Derecho Civil: 
+[penal] ()
+Regula las relaciones entre las personas en el ámbito privado, como el matrimonio, la propiedad, los contratos y las obligaciones.
+
+## Derecho Laboral: 
+[penal] ()
+Regula las relaciones entre empleadores y empleados, estableciendo los derechos y obligaciones de ambas partes, así como las normas de seguridad y protección social.
+
+## Derecho Mercantil:
+[penal] ()
+Se ocupa de las normas que regulan el comercio y las transacciones comerciales, incluyendo contratos, sociedades, propiedad intelectual y competencia desleal.
+
+## Derecho Internacional: 
+[penal] ()
+Establece las normas que rigen las relaciones entre los diferentes países, incluyendo tratados, convenios y solución de conflictos internacionales.
 Para entender las distintas interpretaciones y usos de la ley debemos entender sobre:
 
+El derecho es fundamental para garantizar la convivencia pacífica, la protección de los derechos humanos y el funcionamiento de la sociedad. Algunas de las razones por las que el derecho es importante son:
+## Orden y estabilidad:
+El derecho establece reglas claras que regulan la conducta humana, lo cual contribuye a mantener el orden y la estabilidad social.
+
+## Justicia: 
+El derecho busca la equidad y la justicia, protegiendo los derechos y libertades de las personas y estableciendo mecanismos para resolver conflictos y disputas.
+
+## Protección de los derechos humanos:
+El derecho garantiza la protección de los derechos fundamentales de las personas, como la vida, la libertad, la igualdad y la dignidad.
+## Seguridad jurídica: 
+El derecho proporciona seguridad jurídica al establecer normas predecibles y claras, lo cual facilita la planificación y el desarrollo de actividades individuales y colectivas.
 
 La **doctrina** ejerce un papel fundamental en la elaboración, desarrollo progresivo y reforma del derecho. A través de sus enseñanzas y obras, la doctrina guía a los juristas en el ejercicio del derecho, brindando una función educativa y orientadora.
 
