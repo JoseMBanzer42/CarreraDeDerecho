@@ -59,7 +59,9 @@ En caso de requerir más información sobre la carrera de Derecho, se proporcion
 ## Introducción 
 
 La carrera de Derecho es una disciplina académica que se enfoca en el estudio y aplicación de las leyes y normas legales que rigen a una sociedad.
-El derecho es un sistema de normas y reglas que rige el comportamiento humano dentro de una sociedad. Se trata de un conjunto de principios y regulaciones que establecen los derechos y deberes de las personas, así como las consecuencias legales en caso de su incumplimiento. El Derecho es fundamental para garantizar el orden, la justicia y la convivencia pacífica en una comunidad. El derecho ha evolucionado a lo largo de la historia, adaptándose a los cambios sociales, políticos y culturales.
+El derecho es un sistema de normas y reglas que rige el comportamiento humano dentro de una sociedad. Se trata de un conjunto de principios y regulaciones que establecen los derechos y deberes de las personas, así como las consecuencias legales en caso de su incumplimiento.
+El Derecho es fundamental para garantizar el orden, la justicia y la convivencia pacífica en una comunidad. El derecho ha evolucionado a lo largo de la historia, adaptándose a los cambios sociales, políticos y culturales.
+
 El derecho se divide en diferentes ramas o áreas de estudio, que se enfocan en aspectos específicos de la vida jurídica. Algunas de las ramas principales del derecho son:
 ## Derecho Penal:
 [penal] ()
@@ -92,6 +94,8 @@ El derecho busca la equidad y la justicia, protegiendo los derechos y libertades
 El derecho garantiza la protección de los derechos fundamentales de las personas, como la vida, la libertad, la igualdad y la dignidad.
 ## Seguridad jurídica: 
 El derecho proporciona seguridad jurídica al establecer normas predecibles y claras, lo cual facilita la planificación y el desarrollo de actividades individuales y colectivas.
+
+Hay vários usos o interpretaciones de la ley, para entenderlo debemos saber sobre: 
 
 La **doctrina** ejerce un papel fundamental en la elaboración, desarrollo progresivo y reforma del derecho. A través de sus enseñanzas y obras, la doctrina guía a los juristas en el ejercicio del derecho, brindando una función educativa y orientadora.
 
